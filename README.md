@@ -1,7 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ein-Tim&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ein-Tim&hide_border=true&layout=compact" align="center" />  
-
 <a href="https://github.com/Ein-Tim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
