@@ -1,6 +1,6 @@
 Welcome to my GitHub Profil 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ein-Tim&show_icons=true&count_private=true&hide_border=true" align="center" />
+![Ein-Tim's github stats](https://github-readme-stats.vercel.app/api?username=Ein-Tim&show_icons=true&theme=algolia&include_all_commits=true)
 
 <a href="https://twitter.com/EinTim2" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
