@@ -1,13 +1,27 @@
-Welcome to my GitHub Profile 👋
+![Header](assets/Header.jpg "CovPass, Corona-Warn-App & CovPassCheck")
 
-![Ein-Tim's github stats](https://github-readme-stats.vercel.app/api?username=Ein-Tim&show_icons=true&theme=algolia&include_all_commits=true)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ein-Tim&show_icons=true&theme=white&include_all_commits=true"></div align="center"><br>
+
+## Willkommen auf meinem GitHub Profil! 👋
+
+Ich bin Tim, wohne in München und beschäftige mich seit über 1½ Jahren in meiner Freizeit mit der [Corona-Warn-App](https://www.coronawarn.app).
+Seit es die [CovPass-App](https://digitaler-impfnachweis-app.de) gibt, bin ich auch dort in meiner Freizeit beim Open-Source-Projekt hier auf GitHub dabei.
+
+### Was ich mache
+
+- 👨🏻‍💻 Bug Spotting bei der Corona-Warn-App, CovPass & CovPassCheck
+- 💡 Feature & Enhancement Requests für Corona-Warn-App, CovPass & CovPassCheck
+- 🔨Viele (kleinere) Änderunen an [coronawarn.app](https://www.coronawarn.app) durch [Pull Requests](https://github.com/corona-warn-app/cwa-website/pulls?q=is%3Apr+author%3AEin-Tim)
+- 💁🏻‍♂️ Twitter-Account [@EinTim2](https://twitter.com/EinTim2) mit über 1.800 Follower*innen auf dem ich zu Neuigkeiten rund um CWA & CovPass(Check) twittere
+- 📚 Swift lernen
+
+Wo ihr mich sonst so im Internet finden könnt:
 
 <a href="https://twitter.com/EinTim2" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white width=100 alt=twitter style="margin-bottom: 5px;" /></a><br>
+
 <a href="https://codeberg.org/Ein-Tim" target="_blank">
-<img src=https://user-images.githubusercontent.com/67682506/114096263-c8806d00-98be-11eb-8357-b051c807bd39.png width=95&style=for-the-badge&logo=Codeberg&logoColor=white alt=codeberg style="margin-bottom: 5px;" />
-</a>
+<img src=https://user-images.githubusercontent.com/67682506/114096263-c8806d00-98be-11eb-8357-b051c807bd39.png width=100&style=for-the-badge&logo=Codeberg&logoColor=white alt=codeberg style="margin-bottom: 5px;" /></a><br>
+
 <a href="https://gitlab.com/Ein-Tim" target="_blank">
-<img src=https://user-images.githubusercontent.com/67682506/113917166-28a0e180-97e1-11eb-9533-565aac271eef.png width=70&style=for-the-badge&logo=GitLab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
+<img src=https://user-images.githubusercontent.com/67682506/113917166-28a0e180-97e1-11eb-9533-565aac271eef.png width=90&style=for-the-badge&logo=GitLab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a>
