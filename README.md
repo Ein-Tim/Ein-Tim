@@ -11,17 +11,19 @@ Seit es die [CovPass-App](https://digitaler-impfnachweis-app.de) gibt, bin ich a
 
 - 👨🏻‍💻 Bug Spotting bei der Corona-Warn-App, CovPass & CovPassCheck
 - 💡 Feature & Enhancement Requests für Corona-Warn-App, CovPass & CovPassCheck
-- 🔨Viele (kleinere) Änderunen an [coronawarn.app](https://www.coronawarn.app) durch [Pull Requests](https://github.com/corona-warn-app/cwa-website/pulls?q=is%3Apr+author%3AEin-Tim)
+- 🔨Viele Änderunen an [coronawarn.app](https://www.coronawarn.app) durch [Pull Requests](https://github.com/corona-warn-app/cwa-website/pulls?q=is%3Apr+author%3AEin-Tim)
 - 💁🏻‍♂️ Twitter-Account [@EinTim2](https://twitter.com/EinTim2) mit über 1.800 Follower*innen auf dem ich zu Neuigkeiten rund um CWA & CovPass(Check) twittere
 - 📚 Swift lernen
 
-Wo ihr mich sonst so im Internet finden könnt:
+## Wo ich sonst so im Internet zu finden bin:
 
 <a href="https://twitter.com/EinTim2" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white width=100 alt=twitter style="margin-bottom: 5px;" /></a><br>
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white width=125 alt=twitter style="margin-bottom: 5px;" /></a><br>
 
 <a href="https://codeberg.org/Ein-Tim" target="_blank">
-<img src=https://user-images.githubusercontent.com/67682506/114096263-c8806d00-98be-11eb-8357-b051c807bd39.png width=100&style=for-the-badge&logo=Codeberg&logoColor=white alt=codeberg style="margin-bottom: 5px;" /></a><br>
+<img src=https://user-images.githubusercontent.com/67682506/114096263-c8806d00-98be-11eb-8357-b051c807bd39.png width=125&style=for-the-badge&logo=Codeberg&logoColor=white alt=codeberg style="margin-bottom: 5px;" /></a><br>
 
 <a href="https://gitlab.com/Ein-Tim" target="_blank">
-<img src=https://user-images.githubusercontent.com/67682506/113917166-28a0e180-97e1-11eb-9533-565aac271eef.png width=90&style=for-the-badge&logo=GitLab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a>
+<img src=https://user-images.githubusercontent.com/67682506/113917166-28a0e180-97e1-11eb-9533-565aac271eef.png width=123&style=for-the-badge&logo=GitLab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a>
+
+### This README is also available in [English](README_EN.md)!
