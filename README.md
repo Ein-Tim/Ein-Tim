@@ -4,7 +4,7 @@
 
 ## Willkommen auf meinem GitHub Profil! 👋
 
-Ich bin Tim, wohne in München und beschäftige mich seit über 1½ Jahren in meiner Freizeit mit der [Corona-Warn-App](https://www.coronawarn.app).
+Ich bin Tim, wohne in München und beschäftige mich seit über 1½ Jahren in meiner Freizeit mit der [Corona-Warn-App](https://www.coronawarn.app/de).
 Seit es die [CovPass-App](https://digitaler-impfnachweis-app.de) gibt, bin ich auch dort in meiner Freizeit beim Open-Source-Projekt hier auf GitHub dabei.
 
 ### Was ich mache
