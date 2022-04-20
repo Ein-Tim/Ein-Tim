@@ -2,6 +2,8 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ein-Tim&show_icons=true&theme=white&include_all_commits=true"></div align="center"><br>
 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Ein-Tim"></div align="center"><br>
+
 ## Welcome to my GitHub profile! 👋
 
 I'm Tim, I live in Munich, Germany and am involved with the German [Corona-Warn-App](https://www.coronawarn.app/en) in my spare time since more than 1½ years.
