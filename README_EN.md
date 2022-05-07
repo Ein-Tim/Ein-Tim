@@ -13,8 +13,8 @@ Since the [CovPass-app](https://digitaler-impfnachweis-app.de/en) is available, 
 
 - 👨🏻‍💻 Bug Spotting for the Corona-Warn-App, CovPass & CovPassCheck
 - 💡 Feature & Enhancement Requests for Corona-Warn-App, CovPass & CovPassCheck.
-- 🔨 Many changes done to [coronawarn.app](https://www.coronawarn.app) through [Pull Requests](https://github.com/corona-warn-app/cwa-website/pulls?q=is%3Apr+author%3AOne-Tim)
-- 💁🏻‍♂️ Twitter account [@EinTim2](https://twitter.com/EinTim2) with over 1.900 followers, tweeting about news & information regarding the CWA & CovPass(Check)
+- 🔨 Many changes on [coronawarn.app](https://www.coronawarn.app) through [Pull Requests](https://github.com/corona-warn-app/cwa-website/pulls?q=is%3Apr+author%3AOne-Tim)
+- 💁🏻‍♂️ Twitter account [@EinTim2](https://twitter.com/EinTim2) with over 1.900 followers, tweeting  news & information regarding the CWA & CovPass(Check)
 - 📚 Learn Swift
 
 ## My other accounts
