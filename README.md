@@ -22,6 +22,9 @@ Seit es die [CovPass-App](https://digitaler-impfnachweis-app.de) gibt, bin ich a
 <a href="https://twitter.com/EinTim2" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white width=125 alt=twitter style="margin-bottom: 5px;" /></a><br>
 
+<a href="https://det.social/web/@EinTim" target="_blank">
+<img src="https://user-images.githubusercontent.com/67682506/171482566-94f75a41-cf80-4bc5-9b55-1b8af72528f0.png" width=125&style=for-the-badge&logo=Mastodon&logoColor=white alt=Mastodon style="margin-bottom: 5px;" /></a><br>
+
 <a href="https://codeberg.org/Ein-Tim" target="_blank">
 <img src=https://user-images.githubusercontent.com/67682506/114096263-c8806d00-98be-11eb-8357-b051c807bd39.png width=125&style=for-the-badge&logo=Codeberg&logoColor=white alt=codeberg style="margin-bottom: 5px;" /></a><br>
 
