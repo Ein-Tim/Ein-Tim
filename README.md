@@ -29,6 +29,11 @@ Seit es die [CovPass-App](https://digitaler-impfnachweis-app.de) gibt, bin ich a
 <img src=https://user-images.githubusercontent.com/67682506/114096263-c8806d00-98be-11eb-8357-b051c807bd39.png width=125&style=for-the-badge&logo=Codeberg&logoColor=white alt=codeberg style="margin-bottom: 5px;" /></a><br>
 
 <a href="https://gitlab.com/Ein-Tim" target="_blank">
-<img src=https://user-images.githubusercontent.com/67682506/113917166-28a0e180-97e1-11eb-9533-565aac271eef.png width=123&style=for-the-badge&logo=GitLab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a>
+<img src=https://user-images.githubusercontent.com/67682506/113917166-28a0e180-97e1-11eb-9533-565aac271eef.png width=125&style=for-the-badge&logo=GitLab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a><br>
 
+## Mein Newsletter
+
+Es gibt auch einen Newsletter von mir! Jeden Montag informiere ich euch über das, was die letzte Woche so rund um die Corona-Warn-App, die CovPass & CovPassCheck-App los war. Abonnieren könnt ihr den Newsletter [hier](https://www.getrevue.co/profile/Ein-Tim).
+Wenn ihr wollt, könnt ihr eure Mail-Addresse angeben, dann bekommt ihr den Newsletter direkt in euer Postfach. Das müsst ihr aber auch nicht, denn ihr könnt den Newsletter auch direkt online auf [meinem Profil](https://www.getrevue.co/profile/Ein-Tim) lesen.
+ 
 ### This README is also available in [English](README_EN.md)!
