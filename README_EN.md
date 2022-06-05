@@ -30,3 +30,8 @@ Since the [CovPass-app](https://digitaler-impfnachweis-app.de/en) is available, 
 
 <a href="https://gitlab.com/Ein-Tim" target="_blank">
 <img src=https://user-images.githubusercontent.com/67682506/113917166-28a0e180-97e1-11eb-9533-565aac271eef.png width=123&style=for-the-badge&logo=GitLab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a>
+
+## My newsletter (German only)
+
+I also have a newsletter! Every Monday I'll inform you about what's been going on regarding the Corona-Warn-App, the CovPass & CovPassCheck app during the last week. You can subscribe to the newsletter [here](https://www.getrevue.co/profile/Ein-Tim).
+If you want, you can enter your mail address, then you will get the newsletter directly in your mailbox. But you don't have to, as you can also read the newsletter online on [my profile](https://www.getrevue.co/profile/Ein-Tim).
