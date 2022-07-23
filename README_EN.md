@@ -35,3 +35,5 @@ Since the [CovPass-app](https://digitaler-impfnachweis-app.de/en) is available, 
 
 I also have a newsletter! Every Monday I'll inform you about what's been going on regarding the Corona-Warn-App, the CovPass & CovPassCheck app during the last week. You can subscribe to the newsletter [here](https://www.getrevue.co/profile/Ein-Tim).
 If you want, you can enter your mail address, then you will get the newsletter directly in your mailbox. But you don't have to, as you can also read the newsletter online on [my profile](https://www.getrevue.co/profile/Ein-Tim).
+
+The newsletter is only sent when there was news about the CWA, CovPass or CovPassCheck.
