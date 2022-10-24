@@ -31,6 +31,9 @@ Since the [CovPass-app](https://digitaler-impfnachweis-app.de/en) is available, 
 <a href="https://gitlab.com/Ein-Tim" target="_blank">
 <img src=https://user-images.githubusercontent.com/67682506/113917166-28a0e180-97e1-11eb-9533-565aac271eef.png width=123&style=for-the-badge&logo=GitLab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a>
 
+<a href="https://www.musixmatch.com/profile/3vUCACE7mkPJj__XkQ5TuzQdOZQHEDYNztq2nCKykq9V3F0q_ormKHKbb_CuNg7LqXaPEo4tX2zSHLt521dgDnQoxjIVT5zzjrZDQeNDUoHz6qo5j375As4GO0YXHA3JDPeKfUmI7yiaLmeTOJY4AlDHjwg2CiZ1bdsNfXhueMY" target="_blank">
+<img src=https://user-images.githubusercontent.com/67682506/197547039-b8ff0258-5579-47a3-b777-cca9b2bc71ae.png width=125&style=for-the-badge&logo=Musixmatch&logoColor=white alt=musixmatch style="margin-bottom: 5px;" /></a><br>
+
 ## My newsletter (German only)
 
 I also have a newsletter! Every Monday I'll inform you about what's been going on regarding the Corona-Warn-App, the CovPass & CovPassCheck app during the last week. You can subscribe to the newsletter [here](https://www.getrevue.co/profile/Ein-Tim).
