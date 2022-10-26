@@ -29,7 +29,7 @@ Since the [CovPass-app](https://digitaler-impfnachweis-app.de/en) is available, 
 <img src=https://user-images.githubusercontent.com/67682506/114096263-c8806d00-98be-11eb-8357-b051c807bd39.png width=125&style=for-the-badge&logo=Codeberg&logoColor=white alt=codeberg style="margin-bottom: 5px;" /></a><br>
 
 <a href="https://gitlab.com/Ein-Tim" target="_blank">
-<img src=https://user-images.githubusercontent.com/67682506/113917166-28a0e180-97e1-11eb-9533-565aac271eef.png width=123&style=for-the-badge&logo=GitLab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a>
+<img src=https://user-images.githubusercontent.com/67682506/113917166-28a0e180-97e1-11eb-9533-565aac271eef.png width=123&style=for-the-badge&logo=GitLab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a><br>
 
 <a href="https://www.musixmatch.com/profile/3vUCACE7mkPJj__XkQ5TuzQdOZQHEDYNztq2nCKykq9V3F0q_ormKHKbb_CuNg7LqXaPEo4tX2zSHLt521dgDnQoxjIVT5zzjrZDQeNDUoHz6qo5j375As4GO0YXHA3JDPeKfUmI7yiaLmeTOJY4AlDHjwg2CiZ1bdsNfXhueMY" target="_blank">
 <img src=https://user-images.githubusercontent.com/67682506/197547039-b8ff0258-5579-47a3-b777-cca9b2bc71ae.png width=125&style=for-the-badge&logo=Musixmatch&logoColor=white alt=musixmatch style="margin-bottom: 5px;" /></a><br>
