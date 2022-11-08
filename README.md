@@ -14,10 +14,9 @@ Seit es die [CovPass-App](https://digitaler-impfnachweis-app.de) gibt, bin ich a
 - 👨🏻‍💻 Bug Spotting bei der Corona-Warn-App, CovPass & CovPassCheck
 - 💡 Feature & Enhancement Requests für Corona-Warn-App, CovPass & CovPassCheck
 - 🔨Viele Änderungen an [coronawarn.app](https://www.coronawarn.app) durch [Pull Requests](https://github.com/corona-warn-app/cwa-website/pulls?q=is%3Apr+author%3AEin-Tim)
-- 💁🏻‍♂️ Twitter-Account [@EinTim2](https://twitter.com/EinTim2) mit über 2.000 Follower:innen auf dem ich zu Neuigkeiten rund um CWA & CovPass(Check) twittere
-- 📚 Swift lernen
+- 💁🏻‍♂️ Mehr als 2.000 Follower:innen auf [Twitter](https://twitter.com/EinTim2) & [Mastodon](https://det.social/web/@EinTim)
 
-## Wo ich sonst so im Internet zu finden bin:
+## Wo ihr mich im Internet noch findet
 
 <a href="https://twitter.com/EinTim2" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white width=125 alt=twitter style="margin-bottom: 5px;" /></a><br>
