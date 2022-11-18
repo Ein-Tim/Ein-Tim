@@ -39,3 +39,5 @@ I also have a newsletter! Every Monday I'll inform you about what's been going o
 If you want, you can enter your mail address, then you will get the newsletter directly in your mailbox. But you don't have to, as you can also read the newsletter online on [my profile](https://www.getrevue.co/profile/Ein-Tim).
 
 The newsletter is only sent when there was news about the CWA, CovPass or CovPassCheck.
+
+I announce new issues of my newsletter on <a href="https://twitter.com/EinTim2">Twitter</a> & <a rel="me" href="https://det.social/@EinTim">Mastodon</a> and am happy to discuss them with you there too!
