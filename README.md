@@ -38,6 +38,9 @@ Seit es die [CovPass-App](https://digitaler-impfnachweis-app.de) gibt, bin ich a
 Es gibt auch einen Newsletter von mir! Jeden Montag informiere ich euch über das, was die letzte Woche so rund um die Corona-Warn-App, die CovPass & CovPassCheck-App los war. Abonnieren könnt ihr den Newsletter [hier](https://www.getrevue.co/profile/Ein-Tim).
 Wenn ihr wollt, könnt ihr eure Mail-Addresse angeben, dann bekommt ihr den Newsletter direkt in euer Postfach. Das müsst ihr aber auch nicht, denn ihr könnt den Newsletter auch direkt online auf [meinem Profil](https://www.getrevue.co/profile/Ein-Tim) lesen.
 
-Der Newsletter wird nur dann gesendet, wenn es Neuigkeiten rund um die CWA, CovPass oder CovPassCheck gab. 
+Der Newsletter wird nur dann gesendet, wenn es Neuigkeiten rund um die CWA, CovPass oder CovPassCheck gab.
+
+Neue Ausgaben meines Newsletters kündige ich auf <a href="https://twitter.com/EinTim2">Twitter</a> & <a rel="me" href="https://det.social/@EinTim">Mastodon</a> an und diskutiere dort auch gerne mit euch!
+
  
 ### This README is also available in [English](README_EN.md)!
