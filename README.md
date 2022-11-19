@@ -40,6 +40,6 @@ Wenn ihr wollt, könnt ihr eure Mail-Addresse angeben, dann bekommt ihr den News
 
 Der Newsletter wird nur dann gesendet, wenn es Neuigkeiten rund um die CWA, CovPass oder CovPassCheck gab.
 
-Neue Ausgaben meines Newsletters kündige ich auf <a href="https://twitter.com/EinTim2">Twitter</a> & <a rel="me" href="https://det.social/@EinTim">Mastodon</a> an und diskutiere dort auch gerne mit euch!
+Neue Ausgaben meines Newsletters kündige ich auf Twitter <a href="https://twitter.com/EinTim2">@EinTim2</a> & Mastodon <a rel="me" href="https://det.social/@EinTim">@EinTim@det.social</a> an und diskutiere dort auch gerne mit euch!
  
 ### This README is also available in [English](README_EN.md)!
