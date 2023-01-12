@@ -1,7 +1,5 @@
 ![Header](assets/Header.jpg "CovPass, Corona-Warn-App & CovPassCheck")
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ein-Tim&show_icons=true&theme=white&include_all_commits=true"></div align="center"><br>
-
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Ein-Tim"></div align="center"><br>
 
 ## Willkommen auf meinem GitHub Profil! 👋
