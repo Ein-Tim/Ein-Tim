@@ -6,15 +6,7 @@
 
 ## Welcome to my GitHub profile! 👋
 
-I'm Tim, I live in Munich, Germany and am involved with the German [Corona-Warn-App](https://www.coronawarn.app/en) in my spare time for more than 2 years.
-Since the [CovPass-app](https://digitaler-impfnachweis-app.de/en) is available, I'm also involved in the community there, via the open source project here on GitHub.
-
-### What I'm doing
-
-- 👨🏻‍💻 Bug Spotting for the Corona-Warn-App, CovPass & CovPassCheck
-- 💡 Feature & Enhancement Requests for Corona-Warn-App, CovPass & CovPassCheck.
-- 🔨 Many changes on [coronawarn.app](https://www.coronawarn.app) through [Pull Requests](https://github.com/corona-warn-app/cwa-website/pulls?q=is%3Apr+author%3AOne-Tim)
-- 💁🏻‍♂️ More than 2,000 followers on [Twitter](https://twitter.com/EinTim2) & [Mastodon](https://det.social/web/@EinTim)
+I'm Tim, I am living in Munich and have been involved with the German [Corona-Warn-App](https://www.coronawarn.app/en) for more than 2 years.
 
 ## Other places where you can find me
 
