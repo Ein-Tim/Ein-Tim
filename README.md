@@ -1,14 +1,12 @@
-![Header](assets/Header.jpg "CovPass, Corona-Warn-App & CovPassCheck")
-
 <div align="center"> <img src="https://github-readme-stats-ochre-eta.vercel.app/api?username=Ein-Tim&show_icons=true&theme=white&include_all_commits=true"></div align="center"><br>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Ein-Tim"></div align="center"><br>
 
-## Willkommen auf meinem GitHub Profil! 👋
+## Über mich
 
-Ich bin Tim, wohne in München und beschäftige mich seit über 2 Jahren mit der [Corona-Warn-App](https://www.coronawarn.app/de).
+Hallo! Ich bin Tim, lebe in München und interessiere mich für alle Arten von Open-Source-Projekten!
 
-## Wo ihr mich im Internet noch findet
+## Meine Accounts
 
 <a href="https://twitter.com/EinTim2" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white width=125 alt=twitter style="margin-bottom: 5px;" /></a><br>
