@@ -8,6 +8,9 @@ Hallo! Ich bin Tim, lebe in München und interessiere mich für alle Arten von O
 
 ## Meine Accounts
 
+<a rel="me" href="https://www.linkedin.com/in/tim-einbeck-72651b27a" target="_blank">
+<img src="https://github.com/corona-warn-app/cwa-website/assets/67682506/0f5fe630-f4d4-457c-b805-ab59e1ab06b3" width=125&style=for-the-badge&logo=Linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" /></a><br>
+
 <a href="https://twitter.com/EinTim2" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white width=125 alt=twitter style="margin-bottom: 5px;" /></a><br>
 
