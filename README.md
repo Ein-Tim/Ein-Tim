@@ -12,7 +12,7 @@ Hallo! Ich bin Tim, lebe in München und interessiere mich für alle Arten von O
 <img src="https://github.com/corona-warn-app/cwa-website/assets/67682506/0f5fe630-f4d4-457c-b805-ab59e1ab06b3" width=125&style=for-the-badge&logo=Linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" /></a><br>
 
 <a href="https://twitter.com/EinTim2" target="_blank">
-<img src="https://github.com/corona-warn-app/cwa-website/assets/67682506/53c8014d-585d-4784-bdbe-8f5fe502cf76" width=75 alt=x style="margin-bottom: 5px;" /></a><br>
+<img src="https://github.com/corona-warn-app/cwa-website/assets/67682506/53c8014d-585d-4784-bdbe-8f5fe502cf76" width=30 alt=x style="margin-bottom: 5px;" /></a><br>
 
 <a rel="me" href="https://det.social/web/@EinTim" target="_blank">
 <img src="https://user-images.githubusercontent.com/67682506/171482566-94f75a41-cf80-4bc5-9b55-1b8af72528f0.png" width=125&style=for-the-badge&logo=Mastodon&logoColor=white alt=Mastodon style="margin-bottom: 5px;" /></a><br>
