@@ -17,9 +17,6 @@ Hallo! Ich bin Tim, lebe in München und interessiere mich für alle Arten von O
 <a rel="me" href="https://det.social/web/@EinTim" target="_blank">
 <img src="https://user-images.githubusercontent.com/67682506/171482566-94f75a41-cf80-4bc5-9b55-1b8af72528f0.png" width=125&style=for-the-badge&logo=Mastodon&logoColor=white alt=Mastodon style="margin-bottom: 5px;" /></a><br>
 
-<a href="https://bsky.app/profile/ein-tim.bsky.social" target="_blank">
-<img src="https://github.com/kulturpass-de/kulturpass-app/assets/67682506/d4b9976c-9998-4d74-b8eb-444987749e2b" width=60 alt=bluesky style="margin-bottom: 5px;" /></a><br>
-
 <a href="https://codeberg.org/Ein-Tim" target="_blank">
 <img src=https://user-images.githubusercontent.com/67682506/114096263-c8806d00-98be-11eb-8357-b051c807bd39.png width=125&style=for-the-badge&logo=Codeberg&logoColor=white alt=codeberg style="margin-bottom: 5px;" /></a><br>
 
